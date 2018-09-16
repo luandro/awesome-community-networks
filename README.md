@@ -44,16 +44,17 @@ List for community network: Software, hardware, documentation, communities
 
 ### Wifi
 - [LibreRouter](https://librerouter.org/): A high performance multi-radio wireless router targeted at Community Networks needs
+- [Tested Hardware](https://libremesh.org/docs/hardware/index.html): List of currently tested hardware by the LibreMesh community
 
 ### Telephony
 - [nuran](http://nuranwireless.com/)
 
 ### Servers
-- Compatible routers
-- Raspberry Pi
-- Orange Pi
-- Rock64
-- Tvbox
+- [Rock64](https://www.pine64.org/?page_id=7147): a powerful credit card size Single Board Computer
+- [Raspberry Pi](https://www.raspberrypi.org/): A small and affordable computer
+- [Orange Pi](http://www.orangepi.org/): A cheaper single-board computer alternative
+- [Banana Pi](http://www.banana-pi.org/): Another cheaper single-board computer alternative
+- Tvbox: A device meant to be used for connecting into TVs, but can be used as a cheap alternative for servers
 
 ## Documentation
 - Definition
