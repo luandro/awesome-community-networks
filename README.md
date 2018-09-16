@@ -37,14 +37,13 @@ List for community network: Software, hardware, documentation, communities
 
 #### Command line
 - [dat](https://github.com/datproject/dat): Share & live sync files anywhere via command line
-- [feed punk]()
-- [scat]()
-
+- [feed punk](https://github.com/staltz/feedpunk): A scuttlebutt client in the terminal
+- [scat](https://github.com/stripedpajamas/scat): A tiny chat-like cli built on scuttlebutt
 
 ## Hardware
 
 ### Wifi
-- LibreRouter
+- [LibreRouter](https://librerouter.org/): A high performance multi-radio wireless router targeted at Community Networks needs
 
 ### Telephony
 - [Nuram]()
@@ -61,3 +60,7 @@ List for community network: Software, hardware, documentation, communities
 - 
 
 ## Communities
+
+## Events
+
+- Latin American Community Networks Summit
