@@ -27,7 +27,7 @@ List for community network: Software, hardware, documentation, communities
 - [patchwork](https://github.com/ssbc/patchwork/releases): Distributed social network
 - [dat](https://github.com/dat-land/dat-desktop): Peer to peer data sharing app built for humans
 - [Beaker Browser](https://beakerbrowser.com/): An experimental browser for exploring and building the peer-to-peer Web
-- [https://github.com/mafintosh/hypervision](https://github.com/mafintosh/hypervision): Watch and broadcast p2p live streams
+- [hypervision](https://github.com/mafintosh/hypervision): Watch and broadcast p2p live streams
 
 #### Mobile
 - [open app ub](https://github.com/open-app/app-hub-mobile/releases): Application hub for an [open app ecosystem](https://github.com/open-app/core)
@@ -46,7 +46,7 @@ List for community network: Software, hardware, documentation, communities
 - [LibreRouter](https://librerouter.org/): A high performance multi-radio wireless router targeted at Community Networks needs
 
 ### Telephony
-- [Nuram]()
+- [nuran](http://nuranwireless.com/)
 
 ### Servers
 - Compatible routers
@@ -57,7 +57,7 @@ List for community network: Software, hardware, documentation, communities
 
 ## Documentation
 - Definition
-- 
+- Libre Router guides
 
 ## Communities
 
