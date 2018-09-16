@@ -30,7 +30,7 @@ List for community network: Software, hardware, documentation, communities
 - [hypervision](https://github.com/mafintosh/hypervision): Watch and broadcast p2p live streams
 
 #### Mobile
-- [open app ub](https://github.com/open-app/app-hub-mobile/releases): Application hub for an [open app ecosystem](https://github.com/open-app/core)
+- [open app hub](https://github.com/open-app/app-hub-mobile/releases): An app store for an [open app ecosystem](https://github.com/open-app/core) for communities
 - [dat installer](https://github.com/staltz/dat-installer/releases): Install applications using Dat
 - [cabal](https://github.com/cabal-club/cabal-mobile/releases): P2P chat
 - [mmmmm](https://mmmmm-alpha.hashbase.io/app-release.apk): Distributed social network
