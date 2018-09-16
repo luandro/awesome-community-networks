@@ -34,6 +34,7 @@ List for community network: Software, hardware, documentation, communities
 - [dat installer](https://github.com/staltz/dat-installer/releases): Install applications using Dat
 - [cabal](https://github.com/cabal-club/cabal-mobile/releases): P2P chat
 - [mmmmm](https://mmmmm-alpha.hashbase.io/app-release.apk): Distributed social network
+- [meshenger](http://www.meshenger.io/): allows voice- and videocommunication without any server or Internet access
 
 #### Command line
 - [dat](https://github.com/datproject/dat): Share & live sync files anywhere via command line
@@ -76,9 +77,9 @@ List for community network: Software, hardware, documentation, communities
 - Nono Libre
 - La Bolsa Libre
 - Atalaya Sur
-- Rede Moinho
 - La Fusa
 - Rede Moinho
+- Rede Celcom
 
 ### North America
 
