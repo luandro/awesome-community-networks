@@ -92,3 +92,11 @@ List for community network: Software, hardware, documentation, communities
 ## Events
 
 - Latin American Community Networks Summit
+
+## Related awesomeness
+- [awesome-peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer)
+- [awesome-decentralized](https://github.com/croqaz/awesome-decentralized)
+- [awesome-humane-tech](https://github.com/engagingspaces/awesome-humane-tech)
+- [toolsforactivism](https://github.com/drewrwilson/toolsforactivism)
+- [awesome-diversity](https://github.com/folkswhocode/awesome-diversity)
+- [awesome-mesh](https://github.com/moarpepes/awesome-mesh)
