@@ -60,7 +60,33 @@ List for community network: Software, hardware, documentation, communities
 - Definition
 - Libre Router guides
 
+## Cooperatives
+- [Alter Mundi](https://altermundi.net/)
+- [Coolab](http://www.coolab.org/)
+- [Freifunk](https://freifunk.net/)
+- [Guifi.net](https://guifi.net/)
+- [NYC Mesh](https://nycmesh.net/)
+- [Toronto Mesh](https://tomesh.net/)
+- [People's Open](https://peoplesopen.net/)
+
 ## Communities
+
+### Latin America
+- Quintana Libre
+- Nono Libre
+- La Bolsa Libre
+- Atalaya Sur
+- Rede Moinho
+- La Fusa
+- Rede Moinho
+
+### North America
+
+### Europe
+
+### Africa
+
+### Asia and Pacific
 
 ## Events
 
