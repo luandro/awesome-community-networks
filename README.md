@@ -8,17 +8,16 @@ List for community network: Software, hardware, documentation, communities
 
 ### Router
 
-- Libremesh
-
+- [Libremesh](http://libremesh.org/): a modular framework for creating OpenWrt/LEDE-based firmwares for wireless mesh nodes
 
 ### Single Board Computers
-- [pi-hole]():
-- [nigios]()
+- [pi-hole](https://pi-hole.net/): Network-wide ad blocking via your own Linux hardware
+- [nagios](https://www.nagios.org/): Monitoring of infrastructure components
 
 ### Telephony
-- Open BSC
-- FreeSwitch
-- Osmocom
+- [osmocom](http://osmocom.org/): umbrella project regarding Open source mobile communications
+- [Open BSC](https://osmocom.org/projects/openbsc): software implementations for the GSM/3GPP protocol stacks and elements
+- [FreeSwitch](https://freeswitch.com/): a scalable open source cross-platform telephony platform designed to route and interconnect popular communication protocols using audio, video, text or any other form of media
 
 ### Applications
 
