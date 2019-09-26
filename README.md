@@ -50,7 +50,8 @@ List for community network: Software, hardware, documentation, communities
 ### Telephony
 - [nuran](http://nuranwireless.com/)
 
-### Servers
+### Micro servers
+
 - [Rock64](https://www.pine64.org/?page_id=7147): a powerful credit card size Single Board Computer
 - [Raspberry Pi](https://www.raspberrypi.org/): A small and affordable computer
 - [Orange Pi](http://www.orangepi.org/): A cheaper single-board computer alternative
@@ -60,8 +61,11 @@ List for community network: Software, hardware, documentation, communities
 ## Documentation
 - Definition
 - Libre Router guides
+- Coolab
+- Reds
+- Altermundi
 
-## Cooperatives
+## Collectives and Organizations
 - [Alter Mundi](https://altermundi.net/)
 - [Coolab](http://www.coolab.org/)
 - [Freifunk](https://freifunk.net/)
@@ -69,6 +73,9 @@ List for community network: Software, hardware, documentation, communities
 - [NYC Mesh](https://nycmesh.net/)
 - [Toronto Mesh](https://tomesh.net/)
 - [People's Open](https://peoplesopen.net/)
+- [Redes AC](https://www.redesac.org.mx/)
+- [Colnodo](https://colnodo.apc.org/)
+- [Red Fusa Libre](https://www.facebook.com/RedFusaLibre)(Facebook)
 
 ## Communities
 
